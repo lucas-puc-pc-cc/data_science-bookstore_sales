@@ -6,7 +6,6 @@ Este projeto tem como objetivo desenvolver um **modelo de previsão de vendas de
 
 O foco principal está em compreender padrões de vendas e utilizar essas informações para apoiar decisões estratégicas, como distribuição de livros, parcerias com livrarias e planejamento editorial.
 
-<hr>
 
 ## 🗂️ Conjunto de Dados
 
@@ -24,7 +23,6 @@ Contém informações detalhadas sobre os livros produzidos por autor.
 - `likes`: Quantidade de curtidas ou interações  
 - `comentarios`: Quantidade de comentários ou feedbacks  
 
-<hr>
 
 ### 2. Tabela de Vendas Totais por Autor (`df_vendas_totais`)
 
@@ -34,7 +32,6 @@ Apresenta o volume total de vendas agregadas por autor, sem detalhamento por liv
 - `autor`: Nome do autor  
 - `vendas`: Total de vendas realizadas  
 
-<hr>
 
 ### 3. Tabela de Vendas por Livraria (`df_vendas_por_livraria`)
 
@@ -45,7 +42,6 @@ Registra as vendas totais de livros por autor em cada livraria.
 - `livraria`: Identificação da livraria  
 - `vendas`: Total de vendas do autor naquela livraria  
 
-<hr>
 
 ## 🎯 Problema a Ser Resolvido
 
@@ -60,7 +56,6 @@ O desafio central do projeto é **prever as vendas de um novo livro**, mesmo sem
 ### Saída Esperada
 - Quantidade estimada de livros vendidos por livraria  
 
-<hr>
 
 ## 🔍 Objetivos do Projeto
 
@@ -70,7 +65,6 @@ O desafio central do projeto é **prever as vendas de um novo livro**, mesmo sem
 - Criar uma base estruturada para possibilitar modelagem preditiva  
 - Desenvolver um modelo capaz de estimar vendas por livraria para novos livros  
 
-<hr>
 
 ## 🧠 Escopo Analítico
 
@@ -84,7 +78,6 @@ O projeto envolve as seguintes etapas:
 
 Um dos principais desafios é lidar com a **ausência de vendas específicas por livro**, trabalhando apenas com dados agregados por autor.
 
-<hr>
 
 ## 📈 Aplicações Potenciais
 
@@ -93,7 +86,6 @@ Um dos principais desafios é lidar com a **ausência de vendas específicas por
 - Apoio à tomada de decisão para editoras  
 - Análise de performance de autores e gêneros  
 
-<hr>
 
 ## 🚧 Observações Importantes
 
@@ -101,7 +93,6 @@ Um dos principais desafios é lidar com a **ausência de vendas específicas por
 - As previsões são estimativas e dependem da qualidade dos dados disponíveis  
 - Este repositório descreve o escopo e o problema do projeto, não necessariamente a implementação final  
 
-<hr>
 
 ## 📄 Licença
 
