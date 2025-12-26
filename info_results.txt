@@ -1,0 +1,5 @@
+Regressão Linear → Vendas: [2658.46088985]
+Random Forest → [4410.565]
+XGBoost → [4122.25]
+CatBoost → [3278.13932042]
+Rede Neural Keras → [[2777.6711]]
